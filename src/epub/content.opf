@@ -157,8 +157,8 @@
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="frontispiece.xhtml"/>
-		<itemref idref="preface.xhtml"/>
 		<itemref idref="introduction.xhtml"/>
+		<itemref idref="preface.xhtml"/>
 		<itemref idref="halftitlepage.xhtml"/>
 		<itemref idref="chapter-1.xhtml"/>
 		<itemref idref="chapter-2.xhtml"/>
@@ -187,8 +187,8 @@
 		<itemref idref="chapter-25.xhtml"/>
 		<itemref idref="chapter-26.xhtml"/>
 		<itemref idref="chapter-27.xhtml"/>
-		<itemref idref="loi.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
+		<itemref idref="loi.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
